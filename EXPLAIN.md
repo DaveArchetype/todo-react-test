@@ -20,3 +20,6 @@ It will also contain the button which on click will send the text up to the Todo
 
 Testing shall be also finished for all components, checking if they correctly render and the correct usage of the inputs in AddTodo.
 All will be added in a components folder in /src.
+
+UPDATE after analysing the App.js file when I started designing the AddTodo: I will also have to make the App.js into a functional component.
+I will be doing this at the end, as I will be able to view my app running before I change it to a functional component.
